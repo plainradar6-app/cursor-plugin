@@ -1,0 +1,10 @@
+{
+  "name": "plainradar",
+  "version": "1.0.0",
+  "description": "Live news search for Cursor's agent: what was published in the last hours and days on any topic, in 45 languages, with duplicate coverage grouped and every story checked for relevance.",
+  "author": { "name": "Plainradar", "email": "dev@plainradar.com" },
+  "homepage": "https://plainradar.com",
+  "license": "MIT",
+  "keywords": ["news", "search", "mcp", "current events", "media monitoring"],
+  "logo": "assets/logo.png"
+}
